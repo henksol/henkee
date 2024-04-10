@@ -1,0 +1,2 @@
+function e(a,t){return{bodyClassName:"framer-body-augiA20Il",breakpoints:[{hash:"72rtr7",mediaQuery:"(min-width: 1440px)"},{hash:"ejq0l7",mediaQuery:"(max-width: 1439px)"}],description:"choose poor",elements:{},framerSearch:{index:!0},title:"choose poor",viewport:"width=device-width"}}var n=1,s={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{e as a,n as b,s as c};
+//# sourceMappingURL=chunk-6NKSBU6H.mjs.map
